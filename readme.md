@@ -22,7 +22,7 @@ L'arachide c'est pas que des cacahouettes, et c'est pas que pour l'apéro !
 
 ## 🛒 Ingrédients
 
-![Photo principale de la recette](images/une.jpg)
+<img src="images/une.jpg" width="300">
 
 | Quantité | Ingrédient |
 |:--------:|------------|
@@ -115,7 +115,7 @@ Une fois réduit à souhait, on rajoute un peu d'eau si l'aspect semble trop ép
 
 **Légumes** : vous pouvez au choix ajouter des carrottes ou du choux qui cuiront pendant le mijotage.
 
-**Prot** : viande ou poisson, ce qui vous voulez, ça passe avec tout !
+**Prot** : viande ou poisson, ce que vous voulez, ça passe avec tout !
 
 > *Adapter les ajouts des légumes et viande ou poisson en fonction du temps restant de cuisson puisque le mijotage est relativement long ...*
 
