@@ -42,7 +42,7 @@ L'arachide c'est pas que des cacahouettes, et c'est pas que pour l'apéro !
 <tr>
 <td width="55%" valign="middle">
 
-**Étape 1** — Couper les oignons en dés
+<b>Étape 1</b> — Couper les oignons en dés
 
 Couteau, planche, au boulot !  
 
@@ -64,7 +64,7 @@ Faite revenir les oignons jusqu'à ce qu'ils bronzent un peu.
 </td>
 <td width="55%" valign="middle">
 
-**Étape 2** — Ajouter le concentré de tomates
+<b>Étape 2</b> — Ajouter le concentré de tomates
 
 Ajouter le concentré.
 
@@ -76,7 +76,7 @@ Mélanger pour obtenir un mélange homogène.
 <tr>
 <td width="55%" valign="middle">
 
-**Étape 3** — Ajouter la pâte d'arachide
+<b>Étape 3</b> — Ajouter la pâte d'arachide
 
 Ajouter deux ou trois verre d'eau. A feux vif donc remuer en permanence, risque d'accrochage !
 
@@ -98,7 +98,7 @@ Mélanger pour obtenir un mélange homogène et ça doit être dense.
 </td>
 <td width="55%" valign="middle">
 
-**Étape 4** — Cuisson
+<b>Étape 4</b> — Cuisson
 
 A ce stade, on va ajouter l'équivalent de 3 ou 4 verres d'eau.  
 
@@ -112,13 +112,13 @@ Une fois réduit à souhait, on rajoute un peu d'eau si l'aspect semble trop ép
 <tr>
 <td width="55%" valign="middle">
 
-**Étape 5** — Variantes et Options
+<b>Étape 5</b> — Variantes et Options
 
-**Légumes** : vous pouvez au choix ajouter des carrottes ou du choux qui cuiront pendant le mijotage.
+<b>Légumes</b> : vous pouvez au choix ajouter des carrottes ou du choux qui cuiront pendant le mijotage.
 
-**Prot** : viande ou poisson, ce que vous voulez, ça passe avec tout !
+<b>Prot</b> : viande ou poisson, ce que vous voulez, ça passe avec tout !
 
-> *Adapter les ajouts des légumes et viande ou poisson en fonction du temps restant de cuisson puisque le mijotage est relativement long ...*
+> <i>Adapter les ajouts des légumes et viande ou poisson en fonction du temps restant de cuisson puisque le mijotage est relativement long ...</i>
 
 </td>
 <td width="45%" align="center">
@@ -136,7 +136,7 @@ Une fois réduit à souhait, on rajoute un peu d'eau si l'aspect semble trop ép
 </td>
 <td width="55%" valign="middle">
 
-**Étape 6** — Assaisonnement
+<b>Étape 6</b> — Assaisonnement
 
 En fonction des goûts, soit juste saler à convenance.  
 
@@ -148,7 +148,7 @@ Ici en plus une petite mixture aïl poivre à ajouter sur le final.
 <tr>
 <td width="55%" valign="middle">
 
-**Étape 7** — Mijotage
+<b>Étape 7</b> — Mijotage
 
 A feux doux et le temps qu'il faut, le plus long, le repère est la formation de remontée d'huile en surface. 
 
@@ -171,4 +171,4 @@ Du piment à côté.
 
 ---
 
-**Bon appétit !
+**Bon appétit !**
