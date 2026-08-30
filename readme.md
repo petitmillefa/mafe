@@ -1,4 +1,4 @@
-# 🍽️ Mafé
+# 🍽️ Une recette du Mafé
 
 ![Plante](images/arachides.png)
 
